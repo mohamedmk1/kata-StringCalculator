@@ -1,0 +1,13 @@
+C:\Tutos\C#\TDD\Kata3Solution\Kata3Solution\bin\Debug\netcoreapp3.1\Kata3Solution.exe
+C:\Tutos\C#\TDD\Kata3Solution\Kata3Solution\bin\Debug\netcoreapp3.1\Kata3Solution.deps.json
+C:\Tutos\C#\TDD\Kata3Solution\Kata3Solution\bin\Debug\netcoreapp3.1\Kata3Solution.runtimeconfig.json
+C:\Tutos\C#\TDD\Kata3Solution\Kata3Solution\bin\Debug\netcoreapp3.1\Kata3Solution.runtimeconfig.dev.json
+C:\Tutos\C#\TDD\Kata3Solution\Kata3Solution\bin\Debug\netcoreapp3.1\Kata3Solution.dll
+C:\Tutos\C#\TDD\Kata3Solution\Kata3Solution\bin\Debug\netcoreapp3.1\Kata3Solution.pdb
+C:\Tutos\C#\TDD\Kata3Solution\Kata3Solution\obj\Debug\netcoreapp3.1\Kata3Solution.csprojAssemblyReference.cache
+C:\Tutos\C#\TDD\Kata3Solution\Kata3Solution\obj\Debug\netcoreapp3.1\Kata3Solution.csproj.CoreCompileInputs.cache
+C:\Tutos\C#\TDD\Kata3Solution\Kata3Solution\obj\Debug\netcoreapp3.1\Kata3Solution.AssemblyInfoInputs.cache
+C:\Tutos\C#\TDD\Kata3Solution\Kata3Solution\obj\Debug\netcoreapp3.1\Kata3Solution.AssemblyInfo.cs
+C:\Tutos\C#\TDD\Kata3Solution\Kata3Solution\obj\Debug\netcoreapp3.1\Kata3Solution.dll
+C:\Tutos\C#\TDD\Kata3Solution\Kata3Solution\obj\Debug\netcoreapp3.1\Kata3Solution.pdb
+C:\Tutos\C#\TDD\Kata3Solution\Kata3Solution\obj\Debug\netcoreapp3.1\Kata3Solution.genruntimeconfig.cache
